@@ -1,0 +1,6 @@
+{
+  "appId": "com.chesscoach.pro",
+  "appName": "Chess Coach Pro",
+  "webDir": "app/src/main/assets/www",
+  "bundledWebRuntime": false
+}
